@@ -27,6 +27,6 @@ Watermelon | shee-gua | xi1 gua1 | 西瓜
 
 English  | Pronounciation  |  Pinyin | Character
 ------------- | -------------  |-------------  |  -------------
-Where is the toilet? | Tuh-saw zai naaaar? | |
+Where is the toilet? | Tuh-saw zai naaaar? | ce1 suo3 zai4 naer3 | 厕所在哪儿
 
 ## Number Hand Gestures
