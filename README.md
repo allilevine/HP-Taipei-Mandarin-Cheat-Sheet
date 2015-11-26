@@ -20,7 +20,7 @@ Tea | cha | 茶
 English  | Pronounciation  | Character
 ------------- | -------------  | -------------
 Pineapple  | bo-luo | 菠蘿
-Papaya  | 
+Papaya  | moo-gua | 木瓜
 Watermelon | shee-gua | 西瓜
 
 ## Useful & Less Useful Expressions
