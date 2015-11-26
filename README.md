@@ -5,8 +5,9 @@
 English  | Pronounciation  | Pinyin | Character
 ------------- | ------------- | ------------- | -------------
 Chicken  | gee row  | ji1 | 雞肉
-Pork  | row  | rou4 | 肉
+Pork  | zhu/ju row  | zhu1 rou4 | 猪肉
 Beef  | nee-o row  | niu2 rou4 | 牛肉
+Meat | row  | rou4 | 肉
 Vegetable  | ching-tsai  | qing1 tsai4 | 青菜
 Fish | yu | yu2 | 鱼
 Dumpling | shway-gee-ow | shui2 gou3 | 水餃
