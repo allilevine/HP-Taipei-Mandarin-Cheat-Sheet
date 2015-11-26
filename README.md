@@ -14,6 +14,9 @@ Dumpling | shway-gee-ow | shui2 gou3 | 水餃
 Tofu |  doh-fu | dou4 fu3| 豆腐
 Rice | fan | fan4 | 飯
 Noodles | mian | mian4 | 面
+Spicy | | la4 | 辣
+Savory/Salty | | xian2 | 咸
+Sweet | | tian2? | 甜
 Tea | cha | cha2 | 茶
 
 ## Smoothies
