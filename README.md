@@ -2,16 +2,29 @@
 
 ## Food
 
-First Header  | Second Header  | Third Header
+English  | Pronounciation  | Character
 ------------- | -------------  | -------------
-Chicken  | Content Cell   | Content Cell
-Pork  | Content Cell   | Content Cell
-Beef  | Content Cell   | Content Cell
-Vegetable  | Content Cell   | 青
+Chicken  | gee row   | 雞肉
+Pork  | row   | 肉
+Beef  | nee-o row   | 牛肉
+Vegetable  | ching-tsai   | 青菜
+Fish | yu | 鱼
+Dumpling |  |
+Tofu |  doh-fu | 豆腐
+Rice | fan | 飯
+Noodles | mian | 面
 
 ## Smoothies
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+English  | Pronounciation  | Character
+------------- | -------------  | -------------
+Pineapple  | Content Cell
+Papaya  | Content Cell
+
+## Useful & Less Useful Expressions
+Where is the toilet? | Tuh-saw zai naaaar?
+
+English  | Pronounciation  | Character
+------------- | -------------  | -------------
+
+## Number Hand Gestures
