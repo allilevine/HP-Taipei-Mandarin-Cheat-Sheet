@@ -9,16 +9,17 @@ Pork  | row   | 肉
 Beef  | nee-o row   | 牛肉
 Vegetable  | ching-tsai   | 青菜
 Fish | yu | 鱼
-Dumpling |  |
+Dumpling | shway-gee-ow | 水餃
 Tofu |  doh-fu | 豆腐
 Rice | fan | 飯
 Noodles | mian | 面
+Tea | cha | 茶
 
 ## Smoothies
 
 English  | Pronounciation  | Character
 ------------- | -------------  | -------------
-Pineapple  | Content Cell
+Pineapple  | 
 Papaya  | Content Cell
 
 ## Useful & Less Useful Expressions
