@@ -19,8 +19,9 @@ Tea | cha | 茶
 
 English  | Pronounciation  | Character
 ------------- | -------------  | -------------
-Pineapple  | 
-Papaya  | Content Cell
+Pineapple  | bo-luo | 菠蘿
+Papaya  | 
+Watermelon | shee-gua | 西瓜
 
 ## Useful & Less Useful Expressions
 Where is the toilet? | Tuh-saw zai naaaar?
